@@ -26,7 +26,7 @@
 }
 
 .project-description {
-  color: #596f96;
+  color: #7f8da1;
   font-style: normal;
   font-weight: 600;
 }
@@ -45,7 +45,9 @@
     grid-template-columns: 1fr 1fr;
   }
   .project-intro-container {
+    margin: 0 auto;
     margin-top: 35px;
+    text-align: center;
   }
   .project-content {
     max-width: 350px;
